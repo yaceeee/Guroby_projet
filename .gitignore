@@ -1,9 +1,10 @@
-# Ignorer l'environnement virtuel
+# Ignorer l’environnement virtuel
 venv/
 
 # Ignorer fichiers générés par Gurobi
 *.mps
 *.out
-videos.mps
-videos.out
+
+# Ignorer fichiers Mac
+.DS_Store
 
