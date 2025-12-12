@@ -1,4 +1,9 @@
-videos.mps
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer fichiers générés par Gurobi
 *.mps
-videos.out
 *.out
+videos.mps
+videos.out
+
